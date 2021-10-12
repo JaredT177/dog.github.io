@@ -1,0 +1,25 @@
+@charset "utf-8";
+.bg{
+	background-color: #232323
+}
+.navbar-shadow {box-shadow: 0 0 6px 0 gray;}
+
+.footer-bg{
+	color: #FFFFFF;
+	background-color: #232323;
+}
+.top-bg{
+	width: 100%;
+	background-color: #A8C9EA;
+}
+.textbox{
+	width: 700px;
+	height: 400px;
+	font-size: 13pt;
+    color: #000;
+	border-radius: 20px;
+	box-shadow: 0 0 5px gray;
+	padding: 40px 30px 30px 30px;
+	margin: 60px 80px;
+	background: #FDFFEC;
+}
